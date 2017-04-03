@@ -13,8 +13,8 @@ import sys
 import argparse
 import data_helpers
 
-POS_PATH = "/home/mil/tonkou/11_Dataset/1_NegPos/Reddit_crowdsourcinvg/Result/Raw_txt/Task1_positive_1217.txt"
-NEG_PATH = "/home/mil/tonkou/11_Dataset/1_NegPos/Reddit_crowdsourcinvg/Result/Raw_txt/Task1_negative_1217.txt"
+POS_PATH = 
+NEG_PATH = 
 
 
 # Data loading params
